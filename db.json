@@ -40,9 +40,10 @@
     },	
 	{
       "id": 2,
-	  "name": "Ervin Howell",
-	  "username": "Antonette",
-	  "email": "Shanna@melissa.tv",
+	  "first_name": "Rebecca",
+	  "last_name": "Biggs",
+	  "username": "rbiggs",
+	  "email": "rbiigs@example.com",
 	  "address": {
 		"street": "Victor Plains",
 		"suite": "Suite 879",
