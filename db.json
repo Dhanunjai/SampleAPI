@@ -37,8 +37,7 @@
 		{"id": "acc-222", "title": "checking"},
 		{"id": "acc-333", "title": "mortgage"}
 	  ]
-    },
-	
+    },	
 	{
       "id": 2,
 	  "name": "Ervin Howell",
@@ -57,7 +56,7 @@
       "phone": "010-692-6593 x09125",	
 	  "accounts": [
 		{"id": "acc-122", "title": "savings"},
-		{"id": "acc-233", "title": "checking"},
+		{"id": "acc-233", "title": "checking"}
 	  ]
     }
   ]
