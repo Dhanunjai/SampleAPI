@@ -24,9 +24,8 @@
     },
     "accounts": [
     { "accid": 1, "userid": "1", "acctype": "Saving" },
-    { "accid": 2, "userid": "1", "acctype": "checking" }
-    { "accid": 3, "userid": "1", "acctype": "mortgage" },
-   }
+    { "accid": 2, "userid": "1", "acctype": "checking" },
+    { "accid": 3, "userid": "1", "acctype": "mortgage" }
   ]
   }
   ]
