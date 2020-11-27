@@ -16,17 +16,6 @@
       }
     },
     "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    },
-    "accounts": [
-    { "accid": 1, "userid": "1", "acctype": "Saving" },
-    { "accid": 2, "userid": "1", "acctype": "checking" },
-    { "accid": 3, "userid": "1", "acctype": "mortgage" }
-  ]
-  }
+    }
   ]
 }
